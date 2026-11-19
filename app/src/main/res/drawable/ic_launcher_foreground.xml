@@ -1,3 +1,9 @@
-<inset xmlns:android="http://schemas.android.com/apk/res/android"
-    android:drawable="@drawable/ic_update"
-    android:inset="30%" />
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFFFF" android:fillAlpha="0.38"
+        android:pathData="M43,34h14a7,7 0,0 1,7 7v14a7,7 0,0 1,-7 7h-14a7,7 0,0 1,-7 -7v-14a7,7 0,0 1,7 -7z" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M52,45h15a7,7 0,0 1,7 7v15a7,7 0,0 1,-7 7h-15a7,7 0,0 1,-7 -7v-15a7,7 0,0 1,7 -7z" />
+    <path android:strokeColor="#FF2459E0" android:strokeWidth="3.4" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M53.5,62.5l6,-6l6,6" />
+</vector>
