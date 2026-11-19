@@ -22,7 +22,12 @@
   <img alt="서버 없음" src="https://img.shields.io/badge/서버-없음-6c7480">
 </p>
 
-<!-- screenshots -->
+<p align="center">
+  <img src="docs/01-latest.png" alt="최신 빌드를 쓰고 있는 화면" width="24%">
+  <img src="docs/02-new.png" alt="새 빌드가 나온 화면" width="24%">
+  <img src="docs/03-download.png" alt="받는 중인 화면" width="24%">
+  <img src="docs/04-confirm.png" alt="설치를 한 번 더 묻는 시트" width="24%">
+</p>
 
 ## 시작하기
 
