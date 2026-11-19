@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.superpowers/
+.kotlin/
+gw.ps1
+release.keystore
+keystore.properties
+*.apk
+root/

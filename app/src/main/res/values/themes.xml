@@ -1,0 +1,7 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ground</item>
+    </style>
+    <color name="ground">#FFF3F4F6</color>
+    <color name="brand">#FF2B6FF3</color>
+</resources>
